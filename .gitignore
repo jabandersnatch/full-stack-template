@@ -1,0 +1,6 @@
+# Git ignore python
+/.venv
+/venv
+/env
+/venv/
+
